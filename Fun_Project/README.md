@@ -23,4 +23,5 @@ A simple game where the user tries to guess a randomly generated number between 
 This project demonstrates basic Python concepts like loops and conditions.
 
 ## Author
-Your Name
+Mohammed Hasan Ziyan
+

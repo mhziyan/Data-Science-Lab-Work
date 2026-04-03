@@ -27,4 +27,5 @@ This project predicts house prices based on features like area and number of bed
 This project shows how machine learning can be used to predict house prices based on basic features.
 
 ## Author
-Your Name
+Mohammed Hasan Ziyan
+
